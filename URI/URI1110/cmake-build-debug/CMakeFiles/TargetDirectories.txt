@@ -1,3 +1,0 @@
-D:/Fatma/Programs files/CLion/URI1110/cmake-build-debug/CMakeFiles/URI1110.dir
-D:/Fatma/Programs files/CLion/URI1110/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Fatma/Programs files/CLion/URI1110/cmake-build-debug/CMakeFiles/rebuild_cache.dir

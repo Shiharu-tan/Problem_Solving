@@ -1,3 +1,0 @@
-D:/Fatma/Programs files/CLion/URI 1110 - Throwing Cards Away/cmake-build-debug/CMakeFiles/URI_1110___Throwing_Cards_Away.dir
-D:/Fatma/Programs files/CLion/URI 1110 - Throwing Cards Away/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Fatma/Programs files/CLion/URI 1110 - Throwing Cards Away/cmake-build-debug/CMakeFiles/rebuild_cache.dir
